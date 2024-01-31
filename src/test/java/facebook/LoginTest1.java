@@ -31,6 +31,10 @@ public class LoginTest1 {
 		System.out.println("Habib is doing great!!");
 	}
 	
+	@Test
+	public void name1 () {
+		System.out.println("New method for test");
+	}
 	
 	
 
